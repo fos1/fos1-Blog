@@ -2,6 +2,8 @@
 
 Be sure to include 45-55-65
 
+Should I include files from a note taking app such as Obsidian?
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey fos1!
